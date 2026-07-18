@@ -1,2 +1,2 @@
-# karthik
-new project 
+# karthik intro
+learning github commands
